@@ -23,7 +23,7 @@
 
 | 微信 | 支付宝 |
 |------|--------|
-| （微信收款码） | （支付宝收款码） |
+| <img src="./wechat-donate.jpg" width="200"/> | <img src="./alipay-donate.jpg" width="200"/> |
 
 或扫码联系作者获取付费咨询 / 定制配置服务。
 
