@@ -86,7 +86,7 @@ nano ~/.openclaw/agents/agent-consultant/SOUL.md
 
 ### 实际运行效果
 
-![多 Agent 对话效果](./06-配置多Agent/multi-agent-demo.jpg)
+![多 Agent 对话效果](./multi-agent-demo.jpg)
 
 > 图：七核 Agent 同时在飞书运行，各司其职
 
