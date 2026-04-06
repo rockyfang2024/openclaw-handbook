@@ -126,4 +126,4 @@ nano ~/.openclaw/agents/agent-consultant/SOUL.md
 |------|--------|
 | <img src="./wechat-donate.jpg" width="200"/> | <img src="./alipay-donate.jpg" width="200"/> |
 
-> 💡 **支持付费手把手教学 & 应用定制配置服务**，扫码联系作者。
+> 💡 **支持付费手把手教学 & 应用定制配置服务**，扫码联系作者。微信号：rockyfang2024
