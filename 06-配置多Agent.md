@@ -125,3 +125,5 @@ nano ~/.openclaw/agents/agent-consultant/SOUL.md
 | 微信 | 支付宝 |
 |------|--------|
 | <img src="./wechat-donate.jpg" width="200"/> | <img src="./alipay-donate.jpg" width="200"/> |
+
+> 💡 **支持付费手把手教学 & 应用定制配置服务**，扫码联系作者。
