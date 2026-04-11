@@ -8,7 +8,7 @@
 
 多 Agent = 一个团队，各司其职，协作完成复杂任务。
 
-![](.gitbook/assets/06-multi-agent.jpg)
+<img src=".gitbook/assets/06-multi-agent.jpg" width="300"/>
 
 ***
 
@@ -18,11 +18,11 @@
 
 进入 [飞书开放平台](https://open.feishu.cn/app)，点击「创建企业应用」：
 
-![](.gitbook/assets/06-feishu-app-list.jpg)
+<img src=".gitbook/assets/06-feishu-app-list.jpg" width="300"/>
 
 填写应用名称、应用描述，可上传头像，点击创建：
 
-![](.gitbook/assets/06-feishu-app-create.jpg)
+<img src=".gitbook/assets/06-feishu-app-create.jpg" width="300"/>
 
 ***
 
@@ -30,7 +30,7 @@
 
 进入应用详情，点击「添加应用能力」→ 选择「机器人」：
 
-![](.gitbook/assets/06-feishu-add-bot.jpg)
+<img src=".gitbook/assets/06-feishu-add-bot.jpg" width="300"/>
 
 ***
 
@@ -38,7 +38,7 @@
 
 进入「权限管理」→ 导入权限：
 
-![](.gitbook/assets/06-feishu-permission-import.jpg)
+<img src=".gitbook/assets/06-feishu-permission-import.jpg" width="300"/>
 
 粘贴以下 JSON 内容：
 
@@ -75,7 +75,7 @@
 }
 ```
 
-![](.gitbook/assets/06-feishu-permission-json.jpg)
+<img src=".gitbook/assets/06-feishu-permission-json.jpg" width="300"/>
 
 ***
 
@@ -83,7 +83,7 @@
 
 将订阅方式配置为「长连接」，并添加「接收消息」事件配置：
 
-![](.gitbook/assets/06-feishu-event-longconn.jpg) ![](.gitbook/assets/06-feishu-event-add.jpg)
+<img src=".gitbook/assets/06-feishu-event-longconn.jpg" width="300"/> <img src=".gitbook/assets/06-feishu-event-add.jpg" width="300"/>
 
 ***
 
@@ -91,7 +91,7 @@
 
 填写版本信息（随便填，只要能审核通过即可），完成后发布：
 
-![](.gitbook/assets/06-feishu-publish.jpg)
+<img src=".gitbook/assets/06-feishu-publish.jpg" width="300"/>
 
 ***
 
@@ -99,7 +99,7 @@
 
 进入「凭证与基础信息」，复制 App ID 和 App Secret备用：
 
-![](.gitbook/assets/06-feishu-appid-secret.jpg)
+<img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
 
 ***
 
@@ -113,15 +113,15 @@
 >
 > 我已经在飞书上自建了新的应用，其中配置如下： App ID: xxxxx（填你的 AppID） App Secret: xxxxxxx（填你的 App Secret） 这个飞书机器人的命名为「龙虾财务官」（自己定义） 工作区为 \~/.openclaw/workspace-agent5-cfo（自己定义）
 
-![](.gitbook/assets/06-agent-created.jpg)
+<img src=".gitbook/assets/06-agent-created.jpg" width="300"/>
 
 然后和新建的机器人聊天，拿到配对码：
 
-![](.gitbook/assets/06-pairing-code.jpg)
+<img src=".gitbook/assets/06-pairing-code.jpg" width="300"/>
 
 把配对码发给你的主龙虾，配对完成：
 
-![](.gitbook/assets/06-pairing-complete.jpg)
+<img src=".gitbook/assets/06-pairing-complete.jpg" width="300"/>
 
 ***
 
@@ -129,11 +129,11 @@
 
 在豆包上，根据你的需求生成对应的 SOUL.md：
 
-![](.gitbook/assets/06-soul-gen.jpg)
+<img src=".gitbook/assets/06-soul-gen.jpg" width="300"/>
 
 然后将 SOUL.md 内容告诉对应的龙虾机器人：
 
-![](.gitbook/assets/06-soul-tell.jpg)
+<img src=".gitbook/assets/06-soul-tell.jpg" width="300"/>
 
 ***
 
