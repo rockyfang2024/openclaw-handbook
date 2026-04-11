@@ -135,6 +135,10 @@
 
 <img src=".gitbook/assets/06-soul-tell.jpg" width="300"/>
 
+验证效果：
+
+<img src=".gitbook/assets/06-soul-verify.jpg" width="300"/>
+
 ***
 
 ## ✅ 本章小结
