@@ -8,7 +8,7 @@
 
 多 Agent = 一个团队，各司其职，协作完成复杂任务。
 
-![多 Agent 效果图](06-multi-agent.jpg)
+<img src="06-multi-agent.jpg" width="400"/>
 
 ---
 
