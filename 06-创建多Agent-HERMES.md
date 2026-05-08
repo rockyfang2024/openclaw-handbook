@@ -123,13 +123,16 @@
 
 <img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
 
-<img src=".gitbook/assets/06-agent-created.jpg" width="300"/>
+
 
 然后和新建的机器人聊天，拿到配对码：
 
-<img src=".gitbook/assets/06-pairing-code.jpg" width="300"/>
+<img src=".gitbook/assets/06-agent-created.jpg" width="300"/>
+
 
 把配对码发给你的主龙虾，配对完成：
+
+<img src=".gitbook/assets/06-pairing-code.jpg" width="300"/>
 
 <img src=".gitbook/assets/06-pairing-complete.jpg" width="300"/>
 
