@@ -53,7 +53,6 @@
 **目标：让 Hermes Agent 按时提醒你做事**
 
 * 最简方式：跟 Agent 说「几点提醒我做什么事」
-* Hermes Cron 定时任务
 
 ***
 
@@ -62,7 +61,6 @@
 **目标：打造属于你自己的 Hermes 能力扩展**
 
 * Skill 是什么（Agent 的能力扩展包）
-* 内置 Skill（xthink、xfupan、xbook...）
 * 创建自定义 Skill
 
 ***
