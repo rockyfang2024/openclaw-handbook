@@ -10,29 +10,13 @@
 
 例如：每天晚上 21:00，提醒你锻炼身体。
 
-***
-
-## 使用 Hermes Cron
-
-Hermes 内置 Cron 系统，支持定时任务：
-
-```bash
-# 创建定时任务
-hermes cron create "0 9 * * *" "每天早上9点提醒我今日计划"
-```
-
-查看定时任务：
-
-```bash
-hermes cron list
-```
+![定时任务示例](.gitbook/assets/04-cron-example.jpg)
 
 ***
 
 ## ✅ 本章小结
 
 * ✅ 学会了最简方式：告诉 Agent「几点提醒我做什么」
-* ✅ 了解了 Hermes Cron 定时任务
 
 ***
 
