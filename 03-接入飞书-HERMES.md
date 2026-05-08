@@ -28,7 +28,10 @@ hermes pairing approve feishu ZJRJVFRN
 
 ## ✅ 本章小结
 
-* 内容待补充。
+* ✅ 执行 `hermes gateway setup` 扫码创建飞书应用
+* ✅ 与飞书机器人对话获取配对码
+* ✅ 执行 `hermes pairing approve feishu <配对码>` 完成配对
+* ✅ 开始与 Hermes 对话
 
 ***
 
