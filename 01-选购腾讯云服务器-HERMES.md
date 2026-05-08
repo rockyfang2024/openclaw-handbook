@@ -31,7 +31,7 @@
 3. 设置登录密码（**记住！**）
 4. 购买
 
-![选购腾讯云服务器配置页面](.gitbook/assets/tencent-cloud-select.jpg)
+![选购腾讯云服务器配置页面](.gitbook/assets/tencent-cloud-select-hermes.jpg)
 
 付费完成后，可在控制台看到实例信息：
 
