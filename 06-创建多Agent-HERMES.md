@@ -113,22 +113,18 @@
 
 ## 3. 让 让 Hermes 创建 Agent
 
-将以下提示词发给主让 Hermes机器人，让它帮你创建新的 Agent：
+将以下提示词发给 主Hermes机器人 ，让它帮你创建新的 Agent：
 
 > 帮我新创建一个agent,也就是新启动一个hermes实例。
 
 <img src=".gitbook/assets/06-hermes-create-agent.jpg" width="300"/>
-
-<img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
-
-
 
 然后和新建的机器人聊天，拿到配对码：
 
 <img src=".gitbook/assets/06-agent-created.jpg" width="300"/>
 
 
-把配对码发给你的主龙虾，配对完成：
+把配对码发给你的 主Hermes机器人 ，配对完成：
 
 <img src=".gitbook/assets/06-pairing-code.jpg" width="300"/>
 
@@ -154,7 +150,7 @@
 
 * ✅ 理解了多 Agent 架构
 * ✅ 在飞书上创建了新应用
-* ✅ 让 OpenClaw 创建了新的 Agent
+* ✅ 让 Hermes 创建了新的 Agent
 * ✅ 完成配对并开始对话
 
 ***
