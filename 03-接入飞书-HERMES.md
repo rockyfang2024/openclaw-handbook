@@ -4,9 +4,25 @@
 
 ***
 
-## 4. 配置 Hermes 使用模型
+## 1. 扫码创建飞书应用
 
-内容待补充。
+输入命令：`hermes gateway setup`
+
+用飞书扫描二维码，自动授权创建飞书应用。
+
+![扫码创建飞书应用](.gitbook/assets/hermes-gateway-setup.jpg)
+
+和飞书机器人对话，如下图：
+
+![配对码](.gitbook/assets/hermes-pairing-code.jpg)
+
+然后根据提示，在控制台输入配对码命令：
+
+```bash
+hermes pairing approve feishu ZJRJVFRN
+```
+
+然后就能正常对话聊天。
 
 ***
 
