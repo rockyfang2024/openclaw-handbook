@@ -111,15 +111,11 @@
 
 ***
 
-## 3. 让 OpenClaw 创建 Agent
+## 3. 让 让 Hermes 创建 Agent
 
-将以下提示词发给主龙虾机器人，让它帮你创建新的 Agent：
+将以下提示词发给主让 Hermes机器人，让它帮你创建新的 Agent：
 
-> 帮我再另外配置一个 agent，另外起一个飞书对话框
->
-> 采用方式：多 Agent 每个 Agent 有独立的工作区、记忆、技能 共享同一个 Gateway，通过不同飞书应用区分
->
-> 我已经在飞书上自建了新的应用，其中配置如下： App ID: xxxxx（填你的 AppID） App Secret: xxxxxxx（填你的 App Secret） 这个飞书机器人的命名为「龙虾财务官」（自己定义） 工作区为 \~/.openclaw/workspace-agent5-cfo（自己定义）
+> 帮我新创建一个agent,也就是新启动一个hermes实例。
 
 <img src=".gitbook/assets/06-hermes-create-agent.jpg" width="300"/>
 
