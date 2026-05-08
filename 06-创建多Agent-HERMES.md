@@ -95,13 +95,17 @@
 
 填写版本信息（随便填，只要能审核通过即可），完成后发布：
 
-<img src=".gitbook/assets/06-feishu-publish.jpg" width="300"/>
+<img src=".gitbook/assets/06-feishu-event-add.jpg" width="300"/>
+
+
 
 ***
 
 ### （6）获取 App ID 和 App Secret
 
 进入「凭证与基础信息」，复制 App ID 和 App Secret备用：
+
+<img src=".gitbook/assets/06-feishu-publish.jpg" width="300"/>
 
 <img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
 
