@@ -71,8 +71,10 @@ model:
 同时在 `~/.hermes{N}/.env` 中配置 API Key：
 
 ```bash
-MINIMAX_CN_API_KEY=sk-xxxxxxxx
+MINIMAX_CN_API_KEY=***
 ```
+
+![选择模型](.gitbook/assets/hermes-model-select.jpg)
 
 ***
 
