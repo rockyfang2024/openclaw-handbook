@@ -59,32 +59,9 @@
 
 ## 4. 配置 Hermes 使用模型
 
-编辑 `~/.hermes{N}/config.yaml`，配置模型：
-
-```yaml
-model:
-  default: MiniMax-M2.7
-  provider: minimax-cn
-  base_url: https://api.minimaxi.com/anthropic
-```
-
-同时在 `~/.hermes{N}/.env` 中配置 API Key：
-
-```bash
-MINIMAX_CN_API_KEY=***
-```
+登录服务器，输入 `hermes model`，选择对应的模型，例如 19，MiniMax China
 
 ![选择模型](.gitbook/assets/hermes-model-select.jpg)
-
-***
-
-## 5. 验证配置
-
-启动 Agent 后，在飞书对话框输入：
-
-> 你现在用的是什么大模型
-
-回复显示 **MiniMax M2.7**，说明配置成功！
 
 ***
 
