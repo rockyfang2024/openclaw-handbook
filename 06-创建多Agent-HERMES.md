@@ -107,7 +107,7 @@
 
 <img src=".gitbook/assets/06-feishu-publish.jpg" width="300"/>
 
-<img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
+
 
 ***
 
@@ -120,6 +120,8 @@
 > 采用方式：多 Agent 每个 Agent 有独立的工作区、记忆、技能 共享同一个 Gateway，通过不同飞书应用区分
 >
 > 我已经在飞书上自建了新的应用，其中配置如下： App ID: xxxxx（填你的 AppID） App Secret: xxxxxxx（填你的 App Secret） 这个飞书机器人的命名为「龙虾财务官」（自己定义） 工作区为 \~/.openclaw/workspace-agent5-cfo（自己定义）
+
+<img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
 
 <img src=".gitbook/assets/06-agent-created.jpg" width="300"/>
 
