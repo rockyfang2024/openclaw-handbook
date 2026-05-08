@@ -111,7 +111,7 @@
 
 ***
 
-## 3. 让 让 Hermes 创建 Agent
+## 3. 让 Hermes 创建 Agent
 
 将以下提示词发给 主Hermes机器人 ，让它帮你创建新的 Agent：
 
@@ -136,7 +136,7 @@
 
 <img src=".gitbook/assets/06-soul-gen.jpg" width="300"/>
 
-然后将 SOUL.md 内容告诉对应的龙虾机器人：
+然后将 SOUL.md 内容告诉对应的 Hermes：
 
 <img src=".gitbook/assets/06-soul-tell.jpg" width="300"/>
 
