@@ -83,9 +83,11 @@
 
 将订阅方式配置为「长连接」，并添加「接收消息」事件配置：
 
+<img src=".gitbook/assets/06-feishu-event-longconn.jpg" width="300"/> 
+
 <img src=".gitbook/assets/06-hermes-event-config.jpg" width="300"/>
 
-<img src=".gitbook/assets/06-feishu-event-longconn.jpg" width="300"/> <img src=".gitbook/assets/06-feishu-event-add.jpg" width="300"/>
+<img src=".gitbook/assets/06-feishu-event-add.jpg" width="300"/>
 
 ***
 
