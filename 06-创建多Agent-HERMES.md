@@ -134,8 +134,6 @@
 
 <img src=".gitbook/assets/06-pairing-code.jpg" width="300"/>
 
-<img src=".gitbook/assets/06-pairing-complete.jpg" width="300"/>
-
 ***
 
 ## 4. 定义 Agent 的 SOUL.md
