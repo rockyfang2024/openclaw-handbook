@@ -121,6 +121,8 @@
 >
 > 我已经在飞书上自建了新的应用，其中配置如下： App ID: xxxxx（填你的 AppID） App Secret: xxxxxxx（填你的 App Secret） 这个飞书机器人的命名为「龙虾财务官」（自己定义） 工作区为 \~/.openclaw/workspace-agent5-cfo（自己定义）
 
+<img src=".gitbook/assets/06-hermes-create-agent.jpg" width="300"/>
+
 <img src=".gitbook/assets/06-feishu-appid-secret.jpg" width="300"/>
 
 
