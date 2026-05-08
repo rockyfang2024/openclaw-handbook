@@ -35,7 +35,7 @@
 
 付费完成后，可在控制台看到实例信息：
 
-![付费完成后控制台效果](.gitbook/assets/tencent-cloud-paid.jpg)
+![付费完成后控制台效果](.gitbook/assets/tencent-cloud-paid-hermes.jpg)
 
 ***
 
