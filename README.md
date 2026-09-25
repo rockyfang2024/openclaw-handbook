@@ -40,15 +40,6 @@
 
 ***
 
-## 💰 支持作者
-
-如果这份文档对你有帮助，欢迎打赏：
-
-| 微信 | 支付宝 |
-| -- | -- |
-| ![](.gitbook/assets/wechat-donate.jpg) | ![](.gitbook/assets/alipay-donate.jpg) |
-
-> 💡 **支持付费手把手教学 & 应用定制配置服务**，扫码联系作者。微信号：rockyfang2024
 
 ***
 
